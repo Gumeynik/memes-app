@@ -76,9 +76,13 @@ main {
 }
 
 .text-up {
+    margin-left: 50px   ;
+    max-width: 300px;
     top: 70px;
 }
 
-.text-down {
+.text-down {   
+     margin-left: 50px   ;
+    max-width: 300px;
     bottom: -40px;
 }
